@@ -1,2 +1,3 @@
-# food-shop-landing
-Premium landing page for local food shop with Framer Motion animations
+# Food Shop Landing Page
+
+// README content here
